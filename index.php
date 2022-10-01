@@ -49,8 +49,7 @@
                             <a href="#" data-cate-id="10">Professional Services </a>
                             <a href="#" data-cate-id="11">Toys and Games</a>
                             <a href="#" data-cate-id="12">Coupon Codes</a>
-                            <a href="#" data-cate-id="13">Recipes</a>
-                            <a href="#" data-cate-id="14">Household </a>
+                            
                         </div>
                     </div>
                 </div>
