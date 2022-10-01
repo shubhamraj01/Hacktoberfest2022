@@ -17,7 +17,7 @@
                             <li>
                                 <a href="coupon.html">Coupons</a>
                             </li>
-                            <li class="has-sub">
+                            <!--<li class="has-sub">
                                 <a href="coupon-code.html">Coupons Code</a>
                                 <ul class="sub-menu">
                                     <li><a href="coupon-code.html">Coupons Code 1</a></li>
@@ -34,7 +34,7 @@
                                     <li><a href="brand-detail-5.html">Brand Detail 5</a></li>
                                 </ul>
                             </li>
-                            <li><a href="blog.html">Blog</a></li>
+                            <li><a href="blog.html">Blog</a></li>-->
                             <li>
                                 <a href="my-coupon.html">My coupons</a>
                                 <i class="icon iPickRed lbl-count"><span>12</span></i>
