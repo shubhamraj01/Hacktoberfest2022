@@ -11,7 +11,7 @@
 
 <h3> "Shop kro discounts p Hop kro"</h3>
 
-<h4> Feel free to contribute to this repo by creating and editing little programs in any programming language and make different folders for the code you want to contribute. </h4>
+<h4> At COUPON DAY we provide you amazing offers each day for your unlimited fun at just Rs 5/-. <br> Chill with your friends at amazing slashed prices just with COUPON DAY. </h4>
 
 <br>
 
