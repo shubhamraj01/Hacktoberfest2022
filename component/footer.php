@@ -82,7 +82,7 @@
                      <a href="#">Contact</a>
                  </div>
                  <div class="copyright">
-                     <a href="templateshub.net">Templates Hub</a>
+                     &copy CouponDay
                  </div>
              </div>
          </div>
